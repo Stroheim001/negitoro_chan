@@ -1,0 +1,15 @@
+# READ ME
+
+このリポジトリは、「ネギトロちゃん」のLive2Dリポジトリです。
+
+*masterブランチへの直接のpushは原則として禁止します*
+
+## contribute guide
+
+. ブランチを切る
+. 操作を行う
+. ローカルリポジトリにコミット
+. pull requestを発行
+. 実際にどういう修正を加えたかをpull requestに記載する(バイナリデータのため)
+. asigneerにstkを追加する事
+. merge作業はstkが行います
