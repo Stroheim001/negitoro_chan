@@ -1,0 +1,8 @@
+{
+	"type": "Live2D Model Setting",
+	"name": "negitoro.ver3",
+	"model": "negitoro.ver3.moc",
+	"textures": [
+		"negitoro.ver3.1024/texture_00.png"
+	]
+}
